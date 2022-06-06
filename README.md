@@ -19,9 +19,6 @@ Uma aplicação simples de ToDo list para treinar os conceitos de estado e imuta
 
 ## Built With
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [React](https://pt-br.reactjs.org/docs/getting-started.html)
 - [Jest](https://jestjs.io/pt-BR/docs/getting-started)
 
