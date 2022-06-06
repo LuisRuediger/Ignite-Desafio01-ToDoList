@@ -1,6 +1,6 @@
 # ToDo
 
-<img src="[https://github.com/LuisRuediger/Ignite-Desafio01-ToDoList/main/assets/ToDo.png](https://github.com/LuisRuediger/Ignite-Desafio01-ToDoList/blob/main/assets/ToDo.png)" />
+<img src="https://github.com/LuisRuediger/Ignite-Desafio01-ToDoList/blob/main/assets/ToDo.png" />
 
 ## Sobre esse projeto
 
